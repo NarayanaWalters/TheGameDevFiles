@@ -1,0 +1,7 @@
+There are three pillars of game design: The loop, progression, and the curve.
+
+the loop: take something fun and do it over and over.
+
+progression: the more the player plays, the better they get, through skill or acummulating numbers. If skill is not a factor in gameplay, it must be done through numbers (rpg-style).
+
+the curve: the longer the game goes, the harder it gets. The three sections of the curve are the tutorial, where base mechanics are introduced one at a time, the meat, where the majority of the game takes place through a sequence of challenges, and then the final challenge, where the player is required to use everything they've learned to defeat one final challenge that is the culmination of all previous challenges.
